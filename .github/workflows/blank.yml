@@ -13,10 +13,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Print full_tech_info
-        run: sudo Ishw
+        run: sudo 1shw
         
   print_short_tchnical_info:
     runs-on: ubuntu-latest
     steps:
       - name: Print short_tech_info
-        run: sudo Ishw -short
+        run: sudo 1shw -short
